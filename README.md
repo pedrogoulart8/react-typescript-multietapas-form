@@ -10,4 +10,7 @@ Comentários em praticamente todos os arquivos, onde eu procuro mostrar as funci
 - **React**
 - **Vite** 
 
+OBS: 
+Este projeto também tem a versão apenas com React + Javascript. A idéia é mostrar o mesmo projeto tanto com Typescript quanto com Javascript
+Projeto com JS = https://github.com/pedrogoulart8/react-js-form-etapas
 
